@@ -4,3 +4,9 @@ A dashboard in Power BI is a visual representation of data that provides a quick
 To create a HR dashboard in Power BI, you can import your HR dataset and use various visualization tools to create charts, graphs, and other visuals to represent the data. You can then arrange these visuals on a single page or dashboard and add filters, slicers, and other interactive elements to allow users to explore the data and drill down into specific details.
 
 Overall, a well-designed HR dashboard can help HR professionals and business leaders make data-driven decisions and gain insights into their workforce's performance and trends.
+
+![Views](https://github.com/harsh903/Power-BI-Projects/blob/main/dashboard-home.png)
+
+![Views](https://github.com/harsh903/Power-BI-Projects/blob/main/action.png)
+
+![Views](https://github.com/harsh903/Power-BI-Projects/blob/main/details.png)
